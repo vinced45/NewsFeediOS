@@ -23,6 +23,7 @@ target 'NewsFeediOS' do
     pod 'NewsFeedKit', :path => '.'
     pod 'ZoomTransitioning'
     pod 'MRArticleViewController'
+    pod 'Kingfisher'
 end
 
 #   Disable Code Coverage for Pods projects
